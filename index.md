@@ -24,7 +24,7 @@
 </div>
 <table class="imgtable"><tr><td>
 <td align="left"><p><br />
-Assistant Professor <br /> 
+Associate Professor <br /> 
 <a href="http://mathcenter.hust.edu.cn/Chinese/index.htm">Math Center</a> <br /> 
 <a href="http://mathcenter.hust.edu.cn">Huazhong University of Science and Technology</a></p>
 <p><br />
