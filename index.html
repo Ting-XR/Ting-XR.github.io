@@ -25,12 +25,12 @@
 <table class="imgtable"><tr><td>
 <td align="left"><p><br />
 Assistant Professor <br /> 
-<a href="https://www.math.pku.edu.cn/">Math Center</a> <br /> 
-<a href="https://english.pku.edu.cn/">Huazhong University of Science and Technology</a></p>
+<a href="http://mathcenter.hust.edu.cn/Chinese/index.htm">Math Center</a> <br /> 
+<a href="http://mathcenter.hust.edu.cn">Huazhong University of Science and Technology</a></p>
 <p><br />
 Huazhong University of Science and Technology, Wuhan <br />
 Email: tgao0716 (at) hust (dot) edu (dot) cn <br /></p>
-<p><a href="https://scholar.google.com/citations?user=CMweeYcAAAAJ&amp;hl=en">Google Scholar</a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/leiwu0">Github</a><br /></p>
+<p><a href="https://scholar.google.com/citations?hl=en&user=dVe0F8cAAAAJ">Google Scholar</a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Ting-XR">Github</a><br /></p>
 </td></tr></table>
 <h1>About me</h1>
 <p>
