@@ -5,24 +5,32 @@
 * indicates  equal contribution or alphabetical author order.
 = Published
 
+- [Approximations of Levy processes by integrated fast oscillating Ornstein-Uhlenbeck processes]\n
+L. Feng, T. Gao, T. Li*, Z. Lin, X. Liu\n
+Stochastics and Dynamics, accepted. 2023. 
+
+- [https://pubs.aip.org/aip/cha/article-abstract/33/4/043131/2882205/Learning-effective-dynamics-from-data-driven?redirectedFrom=fulltext Learning reduced effective dynamics from data-driven stochastic dynamcial systems]\n
+L. Feng, T. Gao*, M. Dai, J. Duan\n
+Chaos 33, 043131, 2023.
+
 - [https://www.sciencedirect.com/science/article/pii/S0307904X22005340 Neural network stochastic differential equation models with applications to financial data forecasting]\n
 L Yang, T Gao\*, Y Lu, J Duan, T Liu\n
 Applied Mathematical Modelling 115, 279-299, 2023.
 
 - [https://aip.scitation.org/doi/full/10.1063/5.0089832 An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Lévy noise]\n
-C Fang, Y Lu, T Gao, J Duan\n
+C Fang, Y Lu, T Gao*, J Duan\n
 Chaos: An Interdisciplinary Journal of Nonlinear Science 32 (6), 063112, 2022.
 
 - [https://aip.scitation.org/doi/full/10.1063/5.0093924 An optimal control method to compute the most likely transition path for stochastic dynamical systems with jumps]\n
-W Wei, T Gao, X Chen, J Duan\n
+W Wei, T Gao, X Chen*, J Duan\n
 Chaos: An Interdisciplinary Journal of Nonlinear Science 32 (5), 051102, 2022.
 
 - [https://aip.scitation.org/doi/full/10.1063/5.0065093 Learning the temporal evolution of multivariate densities via normalizing flows]\n
-Y Lu, R Maulik, T Gao, F Dietrich, IG Kevrekidis, J Duan\n 
+Y Lu, R Maulik*, T Gao, F Dietrich, IG Kevrekidis, J Duan\n 
 Chaos: An Interdisciplinary Journal of Nonlinear Science 32 (3), 033121, 2022.
 
 - [https://aip.scitation.org/doi/full/10.1063/5.0012858 Detecting the maximum likelihood transition path from data of stochastic dynamical systems]\n
-M Dai, T Gao, Y Lu, Y Zheng, J Duan\n
+M Dai, T Gao*, Y Lu, Y Zheng, J Duan\n
 Chaos: An Interdisciplinary Journal of Nonlinear Science 30 (11), 113124, 2020.
 
 - [https://www.sciencedirect.com/science/article/pii/S1007570416300478 Quantifying model uncertainty in dynamical systems driven by non-Gaussian Lévy stable noise with observations on mean exit time or escape probability]\n
@@ -61,15 +69,21 @@ Mathematics and Computers in Simulation 82 (4), 653-665, 2011.
 \n
 = Preprints
 
-- [Meta contrastive label correction for financial time series]\n
-submitted, 2022. 
-
-- [Stock Trading Optimization through Model-based Reinforcement Learning with Normalizing Flows]\n
-submitted, 2022. 
-
-- [https://arxiv.org/abs/2205.04151 Auto-SDE: Learning effective reduced dynamics from data-driven stochastic dynamical systems]\n
-Lingyu Feng, Ting Gao, Min Dai, Jinqiao Duan\n
+- [https://arxiv.org/abs/2303.08103 Meta contrastive label correction for financial time series]\n
+Luxuan Yang, Ting Gao*, Min Dai, Yubin Lu, Wei Wei, Cheng Fang, Yufu Lan, Jinqiao Duan\n
 submitted, 2022.
+
+- [https://arxiv.org/abs/2303.00385 Detecting the Most Probable High Dimensional Transition Pathway Based on Optimal Control Theory]\n
+Jianyu Chen, Ting Gao*, Yang Li and Jinqiao Duan\n, submitted. 
+
+- [https://arxiv.org/abs/2301.09297 Model Based Reinforcement Learning with Non-Gaussian Environment Dynamics and its Application to Portfolio Optimization]\n
+H. Huang, T. Gao*, Y. Gui, J. Guo, P. Zhang, submitted, 2023. 
+
+- [https://arxiv.org/abs/2304.12994 Deep Reinforcement Learning in Finite-Horizon to Explore the Most Probable Transition Pathway]\n
+J. Guo, T. Gao*, P. Zhang, J. Han, H. Huang, J. Duan, 2023.
+
+- [Combining Reservoir Computing and Normalizing Flow: Long-term Evolution Prediction of Stochastic Dynamical Systems]\n
+C. Fang, Y. Lu*, T. Gao, J. Duan, submitted, 2023.
 
 
 
