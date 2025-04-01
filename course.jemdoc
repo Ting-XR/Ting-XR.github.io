@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{teaching.html}
+# jemdoc: addcss{jemdoc.css}, notime
+
+=== 
+
+= Mathematical Foundation of Deep Learning
+
+
+== Lecture notes
+ . [lecture-note/lec-1.pptx Introduction and error analysis]
+ . [lecture-note/lec-2.pptx Optimization in Deep Learning]
+ . [lecture-note/lec-3.pptx Deep Neural Networks and Dynamical Systems]
+ . [lecture-note/lec-4.pptx Advanced Deep Neural Networks]
+   .. Attention, Self-Attention, Transformer, Bert 
+ . [lecture-note/lec-5.pptx Generative Deep Learning]
+   .. VAE, GAN, NF 
+ . [lecture-note/lec-6.pptx Deep Reinforcement Learning]
+   .. Dynamical Programing, Monte Carlo and TD Learning 
+   .. On-policy, Off-policy, Actor-Critic 
+ . [lecture-note/lec-7.pptx Deep Reinforcement Learning]
+   .. Model Free RL - DDPG, PPO, TRPO
+   .. Model Based RL - black box vs. whie box 
+ . [lecture-note/lec-8.pptx Deep Reinforcement Learning]
+   .. RS, CEM, PETS, POPLIN
+   .. MBPO, M2AC, Latent space modeling 
+ . [https://github.com/Ting-XR/DeepLearningforAppliedStats Software]
+ . Research discussion and presentations 
+
+
+== References
+ - Ian GoodFellow, Yoshua Benjio, Aaron Conrville – Deep Learning
+ - Richard S. Sutton, Andrew G. Barto: Refincement Learning:An introduction 
+ - Dimitri P. Bertsekas, reinforcement learning and optimal control
+
+
+
+
+

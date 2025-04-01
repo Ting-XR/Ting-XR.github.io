@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: addcss{jemdoc.css}, notime
+= Ting Gao (高婷)
+
+
+
+~~~
+{}{img_left}{leiwu.jpeg}{Lei Wu}{120 px}{160 px}
+\n
+Assistant Professor \n 
+[http://mathcenter.hust.edu.cn Center for Mathematical Sciences] \n 
+[http://hust.edu.cn Huazhong University of Science and Technology]
+
+805, Enming Building \n
+Huazhong University of Science and Technology, Wuhan \n
+Email: tgao0716 (at) hust (dot) edu (dot) cn\n
+
+[https://scholar.google.com/citations?hl=en&user=dVe0F8cAAAAJ Google Scholar] ~~~ [https://github.com/Ting-XR Github]\n
+~~~
+
+ 
+
+
+= About me
+I am currently an assistant professor in the School of Mathematical Sciences at PKU.  Previously, I was a postdoc at the [https://www.pacm.princeton.edu/ Program in Applied and Computational Mathematics (PACM)] of [https://www.princeton.edu/ Princeton University]. 
+My research interests are broadly in machine learning theory and applying machine learning to solve scientific computing problems. 
+
+I completed my Ph.D. in computational mathematics at [https://www.pku.edu.cn/ PKU] in 2018, advised by [https://web.math.princeton.edu/~weinan/ Prof. Weinan E]. Before that, I received the B.S. degree in pure mathematics from [https://www.nankai.edu.cn/ Nankai University] in 2012. 
+
